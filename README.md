@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-# Name: Gene Nguyen
-# Major: Public Health of Data Science
+Name: Gene Nguyen
+Major: Public Health of Data Science
 
 <!--
 **genetnguyen/genetnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
